@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "in.aasheha.moodlemobile"
         versionCode = "391"
-        version   = "1.15">
-    <name>Moodle Mobile</name>
+        version   = "1.00">
+    <name>Aasheha Mobile</name>
 
     <description>
-        Moodle Mobile official app
+        Aasheha Mobile official app
     </description>
 
-    <author href="http://moodle.com" email="juan@moodle.com">
-        Juan Leyva
+    <author href="http://edoodle.in" email="info@edoodle.in">
+        Rajkumar Nataraj
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
